@@ -22,8 +22,8 @@ SBR ChatBot is a sleek AI-powered chatbot app built using **Flutter** and **Open
 ## 🖼️ UI Showcase
 
 | Login Page | Chatting & Generation | Image Upload & Response |
-|------------|------------------------|--------------------------|
-| ![Login](/images/login.png) | ![Chat1](/images/chat.png) | ![Chat2](/images/image_description.png) |
+|------------|-----------------------|-------------------------|
+| ![Login](/images/login.png)| ![Chat1](/images/chat1.png) | ![Chat2](/images/image_description.png) |
 
 
 ---
@@ -44,7 +44,7 @@ SBR ChatBot is a sleek AI-powered chatbot app built using **Flutter** and **Open
 
 1. Clone the repo:
    ```bash
-   git clone 
+   git clone https://github.com/Vanhayten/Flutter_AI_chatbot
    cd sbr_chatbot
    ```
 
